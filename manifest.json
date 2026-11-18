@@ -4,16 +4,16 @@
     "niche": "Enterprise Cloud Security",
     "slug": "zero-trust-cloud-architecture-implementation-guide",
     "published_date": "2026-11-18",
-    "certainty_pct": 100.0,
-    "decision_uuid": "00a64c03-1a3b-4e7f-97b6-5a991c451569"
+    "certainty_pct": 99.9,
+    "decision_uuid": "dd4d1bcb-6814-442c-8407-96ccf8d37507"
   },
   {
     "title": "B2B ERP Migration ROI and Total Cost Comparison",
     "niche": "Enterprise Software",
     "slug": "b2b-erp-migration-roi-and-total-cost-comparison",
     "published_date": "2026-11-18",
-    "certainty_pct": 100.0,
-    "decision_uuid": "0c7fb401-b384-4e87-9a37-9e8af8aead7b"
+    "certainty_pct": 99.9,
+    "decision_uuid": "c286eb77-3ff3-4037-ba85-f51f208d2f1f"
   },
   {
     "title": "Commercial Fleet Liability Insurance Underwriting Checklist",
@@ -21,7 +21,7 @@
     "slug": "commercial-fleet-liability-insurance-underwriting-checklist",
     "published_date": "2026-11-18",
     "certainty_pct": 100.0,
-    "decision_uuid": "d3f02f53-4f23-4eef-899f-40a1b654242c"
+    "decision_uuid": "fada30c2-cfb8-4e71-84a0-7f36ce35c701"
   },
   {
     "title": "Enterprise SOC 2 Type II Compliance Cost Breakdown",
@@ -29,7 +29,7 @@
     "slug": "enterprise-soc-2-type-ii-compliance-cost-breakdown",
     "published_date": "2026-11-18",
     "certainty_pct": 100.0,
-    "decision_uuid": "0f407ec4-3d9d-4ff2-8134-e2d504cb5acd"
+    "decision_uuid": "1ef4381f-837c-425e-a4c6-f64550ac638e"
   },
   {
     "title": "Iso 27001 certification cost breakdown",
@@ -37,7 +37,7 @@
     "slug": "iso-27001-certification-cost-breakdown",
     "published_date": "2026-11-18",
     "certainty_pct": 100.0,
-    "decision_uuid": "a3480e02-4ab4-4c1a-ac6a-46bb0177af3f"
+    "decision_uuid": "3894716d-aac9-4a65-acc1-22376c968550"
   },
   {
     "title": "Kubernetes runtime security platform pricing",
@@ -45,7 +45,7 @@
     "slug": "kubernetes-runtime-security-platform-pricing",
     "published_date": "2026-11-18",
     "certainty_pct": 100.0,
-    "decision_uuid": "ce1b3f60-3618-40ca-bd44-b6cc0f36bc95"
+    "decision_uuid": "f6bb0cfe-91ee-43cd-a931-fd6fb7f7c150"
   },
   {
     "title": "Commercial cyber liability insurance quote checklist",
@@ -53,6 +53,6 @@
     "slug": "commercial-cyber-liability-insurance-quote-checklist",
     "published_date": "2026-11-18",
     "certainty_pct": 100.0,
-    "decision_uuid": "4684f1f5-9df1-49ce-ad24-41ec704a7a86"
+    "decision_uuid": "3fac190d-0e42-4d7b-9b2e-3ae7a4ca78ee"
   }
 ]
