@@ -1,5 +1,29 @@
 [
   {
+    "title": "Iso 27001 certification cost breakdown",
+    "niche": "Cybersecurity & Compliance",
+    "slug": "iso-27001-certification-cost-breakdown",
+    "published_date": "2026-11-19",
+    "certainty_pct": 100.0,
+    "decision_uuid": "f0284588-7ba0-446f-b32d-4cba1cf5b0d2"
+  },
+  {
+    "title": "Kubernetes runtime security platform pricing",
+    "niche": "Enterprise Cloud Security",
+    "slug": "kubernetes-runtime-security-platform-pricing",
+    "published_date": "2026-11-19",
+    "certainty_pct": 100.0,
+    "decision_uuid": "80a228e0-7235-4849-ac48-01adac0ea136"
+  },
+  {
+    "title": "Commercial cyber liability insurance quote checklist",
+    "niche": "Commercial Insurance",
+    "slug": "commercial-cyber-liability-insurance-quote-checklist",
+    "published_date": "2026-11-19",
+    "certainty_pct": 100.0,
+    "decision_uuid": "2830f880-cb22-4cce-abcc-fd5d962b533c"
+  },
+  {
     "title": "Zero-Trust Cloud Architecture Implementation Guide",
     "niche": "Enterprise Cloud Security",
     "slug": "zero-trust-cloud-architecture-implementation-guide",
@@ -30,29 +54,5 @@
     "published_date": "2026-11-18",
     "certainty_pct": 100.0,
     "decision_uuid": "1ef4381f-837c-425e-a4c6-f64550ac638e"
-  },
-  {
-    "title": "Iso 27001 certification cost breakdown",
-    "niche": "Cybersecurity & Compliance",
-    "slug": "iso-27001-certification-cost-breakdown",
-    "published_date": "2026-11-18",
-    "certainty_pct": 100.0,
-    "decision_uuid": "3894716d-aac9-4a65-acc1-22376c968550"
-  },
-  {
-    "title": "Kubernetes runtime security platform pricing",
-    "niche": "Enterprise Cloud Security",
-    "slug": "kubernetes-runtime-security-platform-pricing",
-    "published_date": "2026-11-18",
-    "certainty_pct": 100.0,
-    "decision_uuid": "f6bb0cfe-91ee-43cd-a931-fd6fb7f7c150"
-  },
-  {
-    "title": "Commercial cyber liability insurance quote checklist",
-    "niche": "Commercial Insurance",
-    "slug": "commercial-cyber-liability-insurance-quote-checklist",
-    "published_date": "2026-11-18",
-    "certainty_pct": 100.0,
-    "decision_uuid": "3fac190d-0e42-4d7b-9b2e-3ae7a4ca78ee"
   }
 ]
