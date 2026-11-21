@@ -1,5 +1,29 @@
 [
   {
+    "title": "Identity Governance And Administration Tool Selection Guide",
+    "niche": "Enterprise Software & Risk",
+    "slug": "identity-governance-and-administration-tool-selection-guide",
+    "published_date": "2026-11-21",
+    "certainty_pct": 100.0,
+    "decision_uuid": "4ffc5edb-5d63-4306-b7e5-1f3b04cb423f"
+  },
+  {
+    "title": "Enterprise Data Migration To Snowflake Cost Analysis",
+    "niche": "Enterprise Cloud & FinOps",
+    "slug": "enterprise-data-migration-to-snowflake-cost-analysis",
+    "published_date": "2026-11-21",
+    "certainty_pct": 100.0,
+    "decision_uuid": "a0633648-428c-4bb0-ba2d-4c73a28f34d7"
+  },
+  {
+    "title": "Enterprise Vendor Risk Management Software Feature Comparison",
+    "niche": "Enterprise Software & Risk",
+    "slug": "enterprise-vendor-risk-management-software-feature-comparison",
+    "published_date": "2026-11-21",
+    "certainty_pct": 100.0,
+    "decision_uuid": "0c51630d-cc66-43d1-862e-6ad73b486207"
+  },
+  {
     "title": "Managed SOCaaS Service Agreement Pricing Breakdown",
     "niche": "Cybersecurity & Compliance",
     "slug": "managed-socaas-service-agreement-pricing-breakdown",
