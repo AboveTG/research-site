@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://research.browserclues.live/</loc></url>
+  <url><loc>https://research.browserclues.live/about.html</loc></url>
+  <url><loc>https://research.browserclues.live/privacy.html</loc></url>
+  <url><loc>https://research.browserclues.live/contact.html</loc></url>
   <url><loc>https://research.browserclues.live/posts/identity-governance-and-administration-tool-selection-guide.html</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://research.browserclues.live/posts/enterprise-data-migration-to-snowflake-cost-analysis.html</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://research.browserclues.live/posts/enterprise-vendor-risk-management-software-feature-comparison.html</loc><lastmod>2026-11-21</lastmod></url>
