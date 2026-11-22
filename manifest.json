@@ -1,5 +1,38 @@
 [
   {
+    "title": "Corporate EDiscovery Platform Implementation Cost Breakdown",
+    "niche": "Enterprise Software & Risk",
+    "cat_key": "compliance",
+    "cat_label": "Audits & Compliance",
+    "summary": "Corporate eDiscovery Platform Implementation Cost Breakdown: Enterprise Software &amp; Risk Executive Summary Enterprise Software &amp; Risk organizations face a deterministic...",
+    "slug": "corporate-ediscovery-platform-implementation-cost-breakdown",
+    "published_date": "2026-11-22",
+    "certainty_pct": 100.0,
+    "decision_uuid": "e6155d6b-0178-4d73-9a0b-3035ea1e551d"
+  },
+  {
+    "title": "Cloud Security Posture Management Tool Pricing Review",
+    "niche": "Cybersecurity & Compliance",
+    "cat_key": "compliance",
+    "cat_label": "Audits & Compliance",
+    "summary": "Executive Summary Enterprise Cloud Security Posture Management (CSPM) procurement is not an IT budgeting exercise; it is an underwriting prerequisite for cyber insurance insur...",
+    "slug": "cloud-security-posture-management-tool-pricing-review",
+    "published_date": "2026-11-22",
+    "certainty_pct": 99.9,
+    "decision_uuid": "1e35bf89-292a-46c7-ae60-0adb03e51db5"
+  },
+  {
+    "title": "Commercial Fleet Liability Insurance Underwriting Checklist",
+    "niche": "Commercial Insurance",
+    "cat_key": "risk",
+    "cat_label": "Cyber Risk & Coverage",
+    "summary": "Commercial Fleet Liability Insurance Underwriting Checklist: Technical Implementation Guide Executive Summary Commercial auto liability underwriting is operating at an unsusta...",
+    "slug": "commercial-fleet-liability-insurance-underwriting-checklist",
+    "published_date": "2026-11-22",
+    "certainty_pct": 100.0,
+    "decision_uuid": "de6e2db3-6a2e-4ca2-aea9-cc5cc789d39b"
+  },
+  {
     "title": "Identity Governance and Administration Tool Selection Guide",
     "niche": "Enterprise Software & Risk",
     "slug": "identity-governance-and-administration-tool-selection-guide",
