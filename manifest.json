@@ -1,5 +1,38 @@
 [
   {
+    "title": "Third Party Risk Management Workflow Automation Guide",
+    "niche": "Enterprise Software & Risk",
+    "cat_key": "compliance",
+    "cat_label": "Audits & Compliance",
+    "summary": "Executive Summary Third-Party Risk Management (TPRM) automation in enterprise software is not an administrative optimization; it is a balance-sheet defense mechanism. Accordin...",
+    "slug": "third-party-risk-management-workflow-automation-guide",
+    "published_date": "2026-11-24",
+    "certainty_pct": 99.9,
+    "decision_uuid": "ae9ad50d-5808-4a78-b792-709c46ba8c85"
+  },
+  {
+    "title": "Kubernetes Multi-Cloud Cost Management Platform Comparison",
+    "niche": "Enterprise Cloud & FinOps",
+    "cat_key": "compliance",
+    "cat_label": "Audits & Compliance",
+    "summary": "Executive Summary Enterprise multi-cloud Kubernetes deployments without automated FinOps governance incur an average capital waste ratio of 38% to 52% of total cloud spend, dr...",
+    "slug": "kubernetes-multi-cloud-cost-management-platform-comparison",
+    "published_date": "2026-11-24",
+    "certainty_pct": 100.0,
+    "decision_uuid": "e2aff420-e92e-439a-880b-7637c8bf2e0a"
+  },
+  {
+    "title": "Commercial Fleet Liability Insurance Underwriting Checklist",
+    "niche": "Commercial Insurance",
+    "cat_key": "risk",
+    "cat_label": "Cyber Risk & Coverage",
+    "summary": "Executive Summary Commercial fleet liability insurance underwriting operates within a structurally unprofitable sector, defined by an industry-wide direct loss and loss-adjust...",
+    "slug": "commercial-fleet-liability-insurance-underwriting-checklist",
+    "published_date": "2026-11-24",
+    "certainty_pct": 100.0,
+    "decision_uuid": "bb56ce28-3da1-4ce5-a1c3-b2ef5b777802"
+  },
+  {
     "title": "Corporate EDiscovery Platform Implementation Cost Breakdown",
     "niche": "Enterprise Software & Risk",
     "cat_key": "compliance",
